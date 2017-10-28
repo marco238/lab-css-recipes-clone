@@ -23,7 +23,7 @@ hr {
 
 .container {
   position: relative;
-  height: 1000px;
+  height: 100vh;
   background-image: url('../images/apple-pie.jpg');
   background-repeat: no-repeat;
   background-size: 1920px auto;
